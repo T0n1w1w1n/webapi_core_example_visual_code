@@ -1,0 +1,248 @@
+2020-11-23 09:08:39.5299||DEBUG|VcWebApi.Program|init main 
+2020-11-23 09:08:42.7213||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 09:08:42.7380||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 09:08:42.7380||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 09:08:42.7380||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 09:08:42.7380||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 09:15:51.1826||DEBUG|VcWebApi.Program|init main 
+2020-11-23 09:15:52.2294||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 09:15:52.2418||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 09:15:52.2418||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 09:15:52.2418||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 09:15:52.2418||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 09:19:49.2152||DEBUG|VcWebApi.Program|init main 
+2020-11-23 09:19:50.2189||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 09:19:50.2449||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 09:19:50.2600||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 09:19:50.2712||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 09:19:50.2712||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\vcwebapi 
+2020-11-23 09:21:02.9594||INFO|Microsoft.Hosting.Lifetime|Application is shutting down... 
+2020-11-23 09:29:38.2526||DEBUG|VcWebApi.Program|init main 
+2020-11-23 09:29:39.2902||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 09:29:39.2902||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 09:29:39.3013||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 09:29:39.3013||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 09:29:39.3013||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 10:29:10.3624||DEBUG|VcWebApi.Program|init main 
+2020-11-23 10:29:11.8470||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 10:29:11.8567||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 10:29:11.8567||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:29:11.8567||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:29:11.8567||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 10:29:59.8869||DEBUG|VcWebApi.Program|init main 
+2020-11-23 10:30:01.0077||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 10:30:01.0077||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 10:30:01.0077||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:30:01.0077||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:30:01.0077||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 10:30:44.2189||DEBUG|VcWebApi.Program|init main 
+2020-11-23 10:30:45.3493||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 10:30:45.3493||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 10:30:45.3493||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:30:45.3493||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:30:45.3493||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 10:36:34.8576||DEBUG|VcWebApi.Program|init main 
+2020-11-23 10:36:35.9550||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 10:36:35.9642||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 10:36:35.9642||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:36:35.9642||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:36:35.9642||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 10:42:03.8457||DEBUG|VcWebApi.Program|init main 
+2020-11-23 10:42:04.9607||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 10:42:04.9844||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 10:42:04.9844||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:42:04.9844||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:42:04.9844||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 11:41:05.7239||DEBUG|VcWebApi.Program|init main 
+2020-11-23 11:41:06.8450||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 11:41:06.8535||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 11:41:06.8535||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 11:41:06.8535||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 11:41:06.8535||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 11:42:34.7917|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Npgsql.PostgresException (0x80004005): 42P01: relation "user_pelanggan" does not exist
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 418
+   at VcWebApi.responsitory.cresponsitory.getlogin(String username, String password) in E:\belajar\.NET VS Code\VcWebApi\responsitory\responsitory.cs:line 52
+   at VcWebApi.Controllers.Pelanggan.Login(Login data) in E:\belajar\.NET VS Code\VcWebApi\Controllers\PelangganController.cs:line 92
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "user_pelanggan" does not exist
+    Position: 71
+    File: d:\pginstaller_12.auto\postgres.windows-x64\src\backend\parser\parse_relation.c
+    Line: 1194
+    Routine: parserOpenTable
+2020-11-23 11:43:05.2499|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Npgsql.PostgresException (0x80004005): 42P01: relation "user_pelanggan" does not exist
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 418
+   at VcWebApi.responsitory.cresponsitory.getlogin(String username, String password) in E:\belajar\.NET VS Code\VcWebApi\responsitory\responsitory.cs:line 52
+   at VcWebApi.Controllers.Pelanggan.Login(Login data) in E:\belajar\.NET VS Code\VcWebApi\Controllers\PelangganController.cs:line 92
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "user_pelanggan" does not exist
+    Position: 71
+    File: d:\pginstaller_12.auto\postgres.windows-x64\src\backend\parser\parse_relation.c
+    Line: 1194
+    Routine: parserOpenTable
+2020-11-23 11:43:40.9650|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Npgsql.PostgresException (0x80004005): 42P01: relation "user_pelanggan" does not exist
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 418
+   at VcWebApi.responsitory.cresponsitory.getlogin(String username, String password) in E:\belajar\.NET VS Code\VcWebApi\responsitory\responsitory.cs:line 52
+   at VcWebApi.Controllers.Pelanggan.Login(Login data) in E:\belajar\.NET VS Code\VcWebApi\Controllers\PelangganController.cs:line 92
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "user_pelanggan" does not exist
+    Position: 71
+    File: d:\pginstaller_12.auto\postgres.windows-x64\src\backend\parser\parse_relation.c
+    Line: 1194
+    Routine: parserOpenTable
+2020-11-23 12:36:28.7706||DEBUG|VcWebApi.Program|init main 
+2020-11-23 12:36:29.8154||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 12:36:29.8154||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 12:36:29.8154||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 12:36:29.8154||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 12:36:29.8154||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 12:38:37.8320||DEBUG|VcWebApi.Program|init main 
+2020-11-23 12:38:38.8607||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 12:38:38.8607||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 12:38:38.8607||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 12:38:38.8607||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 12:38:38.8607||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 13:24:17.9463||DEBUG|VcWebApi.Program|init main 
+2020-11-23 13:24:20.1051||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 13:24:20.1296||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 13:24:20.1296||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 13:24:20.1296||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 13:24:20.1296||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 13:24:30.6069||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:26:16.0725||DEBUG|VcWebApi.Program|init main 
+2020-11-23 13:26:17.2838||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 13:26:17.2838||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 13:26:17.2838||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 13:26:17.2838||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 13:26:17.2838||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 13:26:37.7639||INFO|VcWebApi.Controllers.Pelanggan|Request login <=={"username":"tes123","password":"fS5wtf4m0bqIPX1hzOcH1g=="} 
+2020-11-23 13:26:47.0163||INFO|VcWebApi.Controllers.Pelanggan|Response Login <== {"Value":{"data":{"id_pelanggan":1,"username":"tes123","nama_pelanggan":"Toni","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOlsidGVzMTIzIiwiZlM1d3RmNG0wYnFJUFgxaHpPY0gxZz09Il0sImp0aSI6ImUwOTE0MjJjLTQ0NTMtNGMwNC05Y2RlLWY0MTA3MWU1YTAwZiIsImV4cCI6MTYwNjExNjQwNiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAxIiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAxIn0.aUF1ujLhqtagkFvBypvSEZJ2RGMBQ8B-AAWdQf2joYI"},"rc":"00","desc":"Login berhasil dilakukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:29:42.4339||DEBUG|VcWebApi.Program|init main 
+2020-11-23 13:29:43.5880||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 13:29:43.5971||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 13:29:43.5971||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 13:29:43.5971||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 13:29:43.5971||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 13:30:45.1571||INFO|VcWebApi.Controllers.Pelanggan|Request login <=={"username":"tes123","password":"fS5wtf4m0bqIPX1hzOcH1g=="} 
+2020-11-23 13:30:46.8341||INFO|VcWebApi.Controllers.Pelanggan|Response Login <== {"Value":{"data":{"id_pelanggan":1,"username":"tes123","nama_pelanggan":"Toni","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOlsidGVzMTIzIiwiZlM1d3RmNG0wYnFJUFgxaHpPY0gxZz09Il0sImp0aSI6ImI2ZjM2OGQ2LWVjZDAtNDNkOC1hMWE4LWY1NzgzY2Q1ZTA4MiIsImV4cCI6MTYwNjExNjY0NiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAxIiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAxIn0.6Uyu02Y7wX5F_q2HmRPczmmjkgbXfGYYjEOHSPu5qiY"},"rc":"00","desc":"Login berhasil dilakukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:31:16.2636||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:31:38.3906||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:33:29.0310||DEBUG|VcWebApi.Program|init main 
+2020-11-23 13:33:30.2063||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 13:33:30.2063||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 13:33:30.2063||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 13:33:30.2063||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 13:33:30.2063||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 13:33:46.8761||INFO|VcWebApi.Controllers.Pelanggan|Request login <=={"username":"tes123","password":"fS5wtf4m0bqIPX1hzOcH1g=="} 
+2020-11-23 13:33:48.6072||INFO|VcWebApi.Controllers.Pelanggan|Response Login <== {"Value":{"data":{"id_pelanggan":1,"username":"tes123","nama_pelanggan":"Toni","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOlsidGVzMTIzIiwiZlM1d3RmNG0wYnFJUFgxaHpPY0gxZz09Il0sImp0aSI6IjNiZDRhOTJlLTljMjYtNDIwMS1hYTBiLWRkZmRiM2FiZGZiZiIsImV4cCI6MTYwNjExMzI4OCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAxIiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAxIn0.KKszpwvpJb8RSZYLQfuugQqvosPHf7H0xMC3nR8zddI"},"rc":"00","desc":"Login berhasil dilakukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:34:08.8793||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:36:19.5885||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:36:21.6629||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:36:30.9789||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:36:31.8531||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:36:33.2745||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:39:41.3511||DEBUG|VcWebApi.Program|init main 
+2020-11-23 13:39:42.5156||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 13:39:42.5249||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 13:39:42.5249||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 13:39:42.5249||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 13:39:42.5249||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 13:40:26.1500||INFO|VcWebApi.Controllers.Pelanggan|Request login <=={"username":"tes123","password":"fS5wtf4m0bqIPX1hzOcH1g=="} 
+2020-11-23 13:40:27.7415||INFO|VcWebApi.Controllers.Pelanggan|Response Login <== {"Value":{"data":{"id_pelanggan":1,"username":"tes123","nama_pelanggan":"Toni","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOlsidGVzMTIzIiwiZlM1d3RmNG0wYnFJUFgxaHpPY0gxZz09Il0sImp0aSI6IjFjY2VkODgxLWIyNGMtNDc3OC1iOGM0LWVlZjdjOGZkNTI1OCIsIkRhdGVPZkpvaW4iOiIyMDIwLTExLTIzIiwiZXhwIjoxNjA2MTEzNjg3LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUwMDEiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjUwMDEifQ.gxxItfqH-blpiZxdolN8Re0Lxn-nT-dZ7m_-npT0Kz0"},"rc":"00","desc":"Login berhasil dilakukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:40:43.0651||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:43:12.5135||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:43:22.8593||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:43:45.6532||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:44:35.5370||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:44:37.0253||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:44:38.6696||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:44:41.7315||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:44:43.4193||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:44:44.1536||INFO|VcWebApi.Controllers.Pelanggan|Response Sign On to Client <== {"Value":{"data":[{"id":1,"nama":"Toni","nohp":"08112418700","alamat":"Bandung"}],"rc":"00","desc":"Data berhasil ditemukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 13:59:36.3223||DEBUG|VcWebApi.Program|init main 
+2020-11-23 13:59:37.5053||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 13:59:37.5053||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 13:59:37.5173||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 13:59:37.5173||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 13:59:37.5173||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 13:59:45.5950||INFO|VcWebApi.Controllers.Pelanggan|Request login <=={"username":"tes123","password":"fS5wtf4m0bqIPX1hzOcH1g=="} 
+2020-11-23 13:59:47.2344||INFO|VcWebApi.Controllers.Pelanggan|Response Login <== {"Value":{"data":{"id_pelanggan":1,"username":"tes123","nama_pelanggan":"Toni","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOlsidGVzMTIzIiwiZlM1d3RmNG0wYnFJUFgxaHpPY0gxZz09Il0sImp0aSI6IjE4ZmJhYjJiLTMwZmUtNDEyMi04ODY1LTRkNTI1NmVlMTFjZSIsIkRhdGVPZkpvaW4iOiIyMDIwLTExLTIzIiwiZXhwIjoxNjA2MTE0ODQ3LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUwMDEiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjUwMDEifQ.FlCk5xN48u5sdnXlxxfVqsO7QE1oCTHSco1mHShCB64"},"rc":"00","desc":"Login berhasil dilakukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
+2020-11-23 14:00:57.1156||DEBUG|VcWebApi.Program|init main 
+2020-11-23 14:00:58.2429||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-23 14:00:58.2535||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-23 14:00:58.2535||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 14:00:58.2535||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 14:00:58.2535||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\belajar\.NET VS Code\VcWebApi 
+2020-11-23 14:01:02.4279||INFO|VcWebApi.Controllers.Pelanggan|Request login <=={"username":"tes123","password":"fS5wtf4m0bqIPX1hzOcH1g=="} 
+2020-11-23 14:02:48.0117||INFO|VcWebApi.Controllers.Pelanggan|Response Login <== {"Value":{"data":{"id_pelanggan":1,"username":"tes123","nama_pelanggan":"Toni","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOlsidGVzMTIzIiwiZlM1d3RmNG0wYnFJUFgxaHpPY0gxZz09Il0sImp0aSI6Ijc1ZjNhNjM4LTg1ZTktNDM4NC1hYThhLWM1ZTRhOWM5Njk1YiIsIkRhdGVPZkpvaW4iOiIyMDIwLTExLTIzIiwiZXhwIjoxNjA2MTE0OTY1LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUwMDEiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjUwMDEifQ.R6VKa270iZv9E-ZXU_5LW5m4ZN9YoRfnelcKehoON1I"},"rc":"00","desc":"Login berhasil dilakukan"},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":200} 
